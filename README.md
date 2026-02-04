@@ -14,7 +14,4 @@ Interactive Visualizations: Generate publication-ready plots (Volcano plots, KM 
 
 User-Friendly Interface: Built with Streamlit for a fast, code-free experience for wet-lab biologists and bioinformaticians.
 
-Option 2: Technical & Concise (Best for the "About" Sidebar)
-An interactive bioinformatics platform for identifying ratio-based biomarkers and analyzing survival synergy between gene pairs. Built with Streamlit, this tool provides advanced visualization for transcriptomic and clinical data.
-
 App URL : https://sr-plot-lite-stream-lit.streamlit.app/
