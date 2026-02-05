@@ -57,7 +57,7 @@ Intuitive navigation between plot views
 
 Responsive styling for consistent visualization across devices
 
-🛠️ Technology Stack
+Technology Stack
 
 Frontend Framework: React
 
@@ -95,7 +95,7 @@ Academic demonstrations of GO enrichment concepts
 
 Visualization support for reports, presentations, and publications
 
- Future Enhancements
+Future Enhancements
 
 Integration of pathway analysis (KEGG, Reactome)
 
