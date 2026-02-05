@@ -57,7 +57,7 @@ Intuitive navigation between plot views
 
 Responsive styling for consistent visualization across devices
 
-🛠️ Technology Stack
+Technology Stack
 
 Frontend Framework: React
 
